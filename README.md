@@ -6,6 +6,7 @@ A open source tool for mac designed to summarize Wikipedia articles
 Using the "power" of the Wikipedia module and the PyGame module to display it
 
 If you like this project, please consider visiting my Patreon: https://www.patreon.com/ImmatureGoat
+
 Check out the itch.io! https://immaturegoat.itch.io/wikineedia 
 
 v0.4.2 
